@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+
+404 error at 26-08-2014 10:33:44: http://localhost:5000/users/6546546
+404 error at 26-08-2014 10:34:53: http://localhost/tasks/
+404 error at 26-08-2014 10:34:54: http://localhost/tasks/
+404 error at 26-08-2014 10:34:54: http://localhost/complete/1/
+404 error at 26-08-2014 10:34:55: http://localhost/tasks/
+404 error at 26-08-2014 10:34:56: http://localhost/tasks/
+404 error at 26-08-2014 10:34:56: http://localhost/delete/1/
+404 error at 26-08-2014 10:35:18: http://localhost/this-route-does-not-exist/
+404 error at 26-08-2014 10:35:20: http://localhost/register/
+404 error at 27-08-2014 09:47:02: http://localhost:5000/favicon.ico
+404 error at 27-08-2014 11:54:37: http://localhost/tasks/
+404 error at 27-08-2014 11:54:38: http://localhost/tasks/
+404 error at 27-08-2014 11:54:38: http://localhost/complete/1/
+404 error at 27-08-2014 11:54:39: http://localhost/tasks/
+404 error at 27-08-2014 11:54:40: http://localhost/tasks/
+404 error at 27-08-2014 11:54:40: http://localhost/delete/1/
+404 error at 27-08-2014 11:55:02: http://localhost/this-route-does-not-exist/
+404 error at 27-08-2014 11:55:04: http://localhost/register/
+404 error at 27-08-2014 12:48:07: http://localhost/tasks/
+404 error at 27-08-2014 12:48:07: http://localhost/tasks/
+404 error at 27-08-2014 12:48:07: http://localhost/complete/1/
+404 error at 27-08-2014 12:48:09: http://localhost/tasks/
+404 error at 27-08-2014 12:48:09: http://localhost/tasks/
+404 error at 27-08-2014 12:48:09: http://localhost/delete/1/
+404 error at 27-08-2014 12:48:30: http://localhost/this-route-does-not-exist/
+404 error at 27-08-2014 12:48:32: http://localhost/register/
+404 error at 27-08-2014 12:49:06: http://localhost/tasks/
+404 error at 27-08-2014 12:49:06: http://localhost/tasks/
+404 error at 27-08-2014 12:49:07: http://localhost/complete/1/
+404 error at 27-08-2014 12:49:08: http://localhost/tasks/
+404 error at 27-08-2014 12:49:08: http://localhost/tasks/
+404 error at 27-08-2014 12:49:08: http://localhost/delete/1/
+404 error at 27-08-2014 12:49:29: http://localhost/this-route-does-not-exist/
+404 error at 27-08-2014 12:49:30: http://localhost/register/
+404 error at 27-08-2014 12:49:57: http://localhost/tasks/
+404 error at 27-08-2014 12:49:58: http://localhost/tasks/
+404 error at 27-08-2014 12:49:58: http://localhost/complete/1/
+404 error at 27-08-2014 12:49:59: http://localhost/tasks/
+404 error at 27-08-2014 12:50:00: http://localhost/tasks/
+404 error at 27-08-2014 12:50:00: http://localhost/delete/1/
+404 error at 27-08-2014 12:50:22: http://localhost/this-route-does-not-exist/
+404 error at 27-08-2014 12:50:24: http://localhost/register/
+404 error at 27-08-2014 12:54:00: http://localhost/tasks/
+404 error at 27-08-2014 12:54:01: http://localhost/tasks/
+404 error at 27-08-2014 12:54:01: http://localhost/complete/1/
+404 error at 27-08-2014 12:54:02: http://localhost/tasks/
+404 error at 27-08-2014 12:54:03: http://localhost/tasks/
+404 error at 27-08-2014 12:54:03: http://localhost/delete/1/
+404 error at 27-08-2014 12:54:23: http://localhost/this-route-does-not-exist/
+404 error at 27-08-2014 12:54:25: http://localhost/register/
+=======
+2014-08-01 10:29:56,056 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:30:49,065 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:38:20,871 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:39:03,802 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:40:14,010 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:42:40,033 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+2014-08-01 10:42:40,918 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
+>>>>>>> 4a19f85f75cb5013e7c7d72ca685d6f61b254e0c

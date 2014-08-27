@@ -1,0 +1,16 @@
+#python specific
+*.pyc
+ 
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+<<<<<<< HEAD
+*.out
+
+# folder for testing reports from nose/coverage
+cover/
+=======
+*.out
+>>>>>>> 4a19f85f75cb5013e7c7d72ca685d6f61b254e0c
