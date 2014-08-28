@@ -59,3 +59,13 @@
 2014-08-01 10:42:40,033 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
 2014-08-01 10:42:40,918 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\app\__init__.py: 21]
 >>>>>>> 4a19f85f75cb5013e7c7d72ca685d6f61b254e0c
+2014-08-28 15:54:10,105 INFO: errors [in C:\Users\Mike\SkyDrive\Documents\Other\Python\Real Python\Book 2 files\flasktaskr\flasktaskr_project\app\__init__.py: 21]
+
+404 error at 28-08-2014 15:54:15: http://localhost/tasks/
+404 error at 28-08-2014 15:54:15: http://localhost/tasks/
+404 error at 28-08-2014 15:54:15: http://localhost/complete/1/
+404 error at 28-08-2014 15:54:17: http://localhost/tasks/
+404 error at 28-08-2014 15:54:17: http://localhost/tasks/
+404 error at 28-08-2014 15:54:17: http://localhost/delete/1/
+404 error at 28-08-2014 15:54:37: http://localhost/this-route-does-not-exist/
+404 error at 28-08-2014 15:54:38: http://localhost/register/
