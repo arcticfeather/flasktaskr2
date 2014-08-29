@@ -14,7 +14,7 @@ def commit():
 	local('git commit -m "{}"'.format(message))
 
 def push():
-	local("git push origin Alpha5")
+	local("git push origin master")
 
 def prepare():
 	test()

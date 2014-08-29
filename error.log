@@ -107,3 +107,11 @@
 404 error at 29-08-2014 13:55:41: http://localhost/delete/1/
 404 error at 29-08-2014 13:56:02: http://localhost/this-route-does-not-exist/
 404 error at 29-08-2014 13:56:04: http://localhost/register/
+404 error at 29-08-2014 13:57:36: http://localhost/tasks/
+404 error at 29-08-2014 13:57:37: http://localhost/tasks/
+404 error at 29-08-2014 13:57:37: http://localhost/complete/1/
+404 error at 29-08-2014 13:57:38: http://localhost/tasks/
+404 error at 29-08-2014 13:57:39: http://localhost/tasks/
+404 error at 29-08-2014 13:57:39: http://localhost/delete/1/
+404 error at 29-08-2014 13:58:01: http://localhost/this-route-does-not-exist/
+404 error at 29-08-2014 13:58:03: http://localhost/register/
